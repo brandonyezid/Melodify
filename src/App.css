@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
+
+.app {
+  display: flex;
+}
+
+.main-content {
+  display: flex;
+  margin-left: 250px; /* Ajustar el contenido para que no quede tapado por el menú lateral */
+  padding: 20px;
+}
+
+.content {
+  flex: 1;
+}
