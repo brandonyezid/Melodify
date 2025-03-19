@@ -1,13 +1,12 @@
 import React, { useState } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
-import Navbar from './components/navbar.jsx';
+import Navbar from './components/Navbar';
 import Sidebar from './components/Sidebar';
 import Home from './pages/Home';
 import PlaylistDetail from './pages/PlaylistDetail';
 import './App.css';
 
 const App = () => {
-  // Lista de playlists (puedes obtenerla de una API o archivo)
   const [playlists] = useState([
     { id: 1, name: 'Playlist 1' },
     { id: 2, name: 'Playlist 2' },

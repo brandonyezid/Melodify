@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import './Sidebar.css';  // Estilos para el menú lateral
+import './Sidebar.css';
 
 const Sidebar = ({ playlists }) => {
   return (

@@ -1,6 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
-import './Navbar.css';  // Aquí puedes agregar estilos específicos
+import './Navbar.css';
 
 const Navbar = () => {
   return (

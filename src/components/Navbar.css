@@ -1,40 +1,39 @@
 .navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    background-color: #1db954;
-    padding: 1rem;
-    color: white;
-  }
-  
-  .logo {
-    display: flex;
-    align-items: center;
-  }
-  
-  .logo img {
-    height: 40px;
-    margin-right: 10px;
-  }
-  
-  .search-form {
-    display: flex;
-    align-items: center;
-  }
-  
-  .search-form input {
-    padding: 0.5rem;
-    border-radius: 20px;
-    border: none;
-    margin-right: 10px;
-  }
-  
-  .search-form button {
-    background-color: white;
-    color: #1db954;
-    padding: 0.5rem 1rem;
-    border-radius: 20px;
-    border: none;
-    cursor: pointer;
-  }
-  
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #1db954;
+  padding: 1rem;
+  color: white;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  height: 40px;
+  margin-right: 10px;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+}
+
+.search-form input {
+  padding: 0.5rem;
+  border-radius: 20px;
+  border: none;
+  margin-right: 10px;
+}
+
+.search-form button {
+  background-color: white;
+  color: #1db954;
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  border: none;
+  cursor: pointer;
+}
