@@ -1,6 +1,6 @@
-#Brandon Granada
-#danny muñoz zapata
-#Daniel Bernal
+#Brandon Granada 1023525236
+#danny muñoz zapata 1039456494
+#Daniel Bernal 1036449691
 
 
 # React + Vite
